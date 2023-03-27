@@ -1,0 +1,9 @@
+[2022-01-05 16:42:57.846][debug] Tunnel state: disconnected
+[2022-01-05 16:42:57.944][error] Failed to update the location: 5 NOT_FOUND: no location was found
+[2022-01-05 16:42:57.944][error] Failed to update the location: 5 NOT_FOUND: no location was found
+[2022-01-05 16:43:07.739][info] Logging in
+[2022-01-05 16:43:32.687][error] onVerifyKey called from invalid state -  key-not-set
+[2022-01-05 16:44:08.357][debug] Tunnel state: connecting
+[2022-01-05 16:44:31.522][debug] Tunnel state: disconnecting
+[2022-01-05 16:44:31.885][debug] Tunnel state: disconnected
+[2022-01-05 16:44:31.905][error] Failed to update the location: 5 NOT_FOUND: no location was found

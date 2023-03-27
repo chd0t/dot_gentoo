@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Check if tor is running
+# -x flag only match processes whose name (or command line if -f is
+# specified) exactly match the pattern. 
+
+state1="%{F#00FF00} TOR Run%{F-}"
+state2="%{F#FF0000} TOR Off%{F-}"
+ 
+if pgrep -x "tor" > /dev/null
+then
+
+echo  "${state1}"
+
+
+else
+
+echo "${state2}"
+
+fi
+
+exit 0

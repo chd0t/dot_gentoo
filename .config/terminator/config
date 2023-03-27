@@ -1,0 +1,27 @@
+[global_config]
+  hide_from_taskbar = True
+  suppress_multiple_term_dialog = True
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.2
+    background_type = transparent
+    cursor_shape = underline
+    cursor_color = "#00ff00"
+    cursor_color_fg = False
+    font = Fira Mono for Powerline 9
+    foreground_color = "#99c1f1"
+    show_titlebar = False
+    scrollbar_position = hidden
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#000000"
+    use_system_font = False
+    bold_is_bright = True
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

@@ -1,0 +1,5 @@
+2022/10/27-05:13:52.596 378b Reusing MANIFEST /home/dot/.config/falkon/profiles/default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/27-05:17:00.654 38c3 Level-0 table #5: started
+2022/10/27-05:17:00.655 38c3 Level-0 table #5: 7298 bytes OK
+2022/10/27-05:17:00.656 38c3 Delete type=0 #3
+2022/10/27-05:17:00.656 38c3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

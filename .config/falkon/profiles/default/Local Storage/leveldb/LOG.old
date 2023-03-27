@@ -1,0 +1,6 @@
+2022/10/31-01:50:41.279 27db Reusing MANIFEST /home/dot/.config/falkon/profiles/default/Local Storage/leveldb/MANIFEST-000001
+2022/10/31-01:50:41.279 27db Recovering log #244
+2022/10/31-01:50:41.280 27db Reusing old log /home/dot/.config/falkon/profiles/default/Local Storage/leveldb/000244.log 
+2022/10/31-01:53:57.906 e60 Level-0 table #249: started
+2022/10/31-01:53:57.944 e60 Level-0 table #249: 25918 bytes OK
+2022/10/31-01:53:57.945 e60 Delete type=0 #244

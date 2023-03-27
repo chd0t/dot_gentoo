@@ -1,0 +1,8 @@
+[Trace 11:41:54.202] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/dot/YouTube-Viewer/README.md
+[Trace 11:41:54.203] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dot/YouTube-Viewer/README.md
+[Trace 11:41:54.203] Server: connection.languages.diagnostics.on: file:///home/dot/YouTube-Viewer/README.md
+[Trace 11:41:54.204] Server: connection.languages.diagnostics.on: file:///home/dot/YouTube-Viewer/README.md
+[Trace 11:41:54.211] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dot/YouTube-Viewer/README.md 1
+[Debug 11:41:54.211] LinkProvider: compute - file:///home/dot/YouTube-Viewer/README.md
+[Debug 11:41:54.288] TableOfContentsProvider: create - file:///home/dot/YouTube-Viewer/README.md
+[Debug 11:41:54.406] MdFoldingProvider: provideFoldingRanges — file:///home/dot/YouTube-Viewer/README.md 1

@@ -1,0 +1,5 @@
+2022/10/26-10:45:06.071 aba Reusing MANIFEST /home/dot/.config/falkon/profiles/default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/26-10:45:08.388 aba Level-0 table #5: started
+2022/10/26-10:45:08.427 aba Level-0 table #5: 10604 bytes OK
+2022/10/26-10:45:08.427 aba Delete type=0 #3
+2022/10/26-10:45:08.428 aba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

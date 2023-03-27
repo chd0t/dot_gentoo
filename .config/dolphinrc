@@ -1,0 +1,25 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/TWP/
+DisplayPort-2 Height 2560x1440 DisplayPort-2=725
+DisplayPort-2 Width 2560x1440 DisplayPort-2=1682
+
+[General]
+Version=202
+ViewPropsTimestamp=2022,10,20,12,39,24.707
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME/Downloads/TWP,file:$HOME/Downloads/TWP
+Recent URLs[$e]=file:$HOME/Downloads/TWP/
+detailViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Search]
+Location=Everywhere

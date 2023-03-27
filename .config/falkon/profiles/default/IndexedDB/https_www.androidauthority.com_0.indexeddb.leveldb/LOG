@@ -1,0 +1,5 @@
+2022/10/29-07:32:38.597 1f94 Reusing MANIFEST /home/dot/.config/falkon/profiles/default/IndexedDB/https_www.androidauthority.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/29-07:32:46.732 1f94 Level-0 table #5: started
+2022/10/29-07:32:46.771 1f94 Level-0 table #5: 5449 bytes OK
+2022/10/29-07:32:46.772 1f94 Delete type=0 #3
+2022/10/29-07:32:46.772 1f94 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

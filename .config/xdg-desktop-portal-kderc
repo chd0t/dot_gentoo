@@ -1,0 +1,8 @@
+[FileDialogSize]
+DisplayPort-2 Height 2560x1440 DisplayPort-2=760
+DisplayPort-2 Width 2560x1440 DisplayPort-2=1290
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/avatar.jpeg,file:$HOME/Downloads/shaw_python3.zip
+Recent URLs[$e]=file:$HOME/Downloads/,file:///
+detailViewIconSize=16

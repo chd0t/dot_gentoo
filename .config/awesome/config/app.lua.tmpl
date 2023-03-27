@@ -1,0 +1,8 @@
+terminal = os.getenv("TERMINAL") or "wezterm"
+editor = os.getenv("EDITOR") or "neovide"
+editor_cmd = terminal .. " -e " .. editor
+{{ if eq .system.sound "alsa" }}
+web_browser = "brave-bin"
+{{ else }}
+web_browser = "firefox-bin"
+{{ end }}

@@ -1,0 +1,19 @@
+[2022-01-05 16:41:17.280][debug] Chromium sandbox is enabled
+[2022-01-05 16:41:17.281][info] Running version 2021.6
+[2022-01-05 16:41:17.353][info] Detected locale: en-US
+[2022-01-05 16:41:17.522][info] Connected to the daemon
+[2022-01-05 16:41:17.619][error] Failed to fetch wireguard key: 5 NOT_FOUND: no WireGuard key was found
+[2022-01-05 16:41:17.620][warning] Failed to fetch account data. Retrying in 8000 ms
+[2022-01-05 16:41:17.678][info] Skip autoconnect because GUI setting is disabled
+[2022-01-05 16:41:17.686][error] Failed to request the version info: 5 NOT_FOUND: no version cache
+[2022-01-05 16:41:18.001][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/user/.config/autostart/mullvad-vpn.desktop'
+[2022-01-05 16:41:18.391][warning] Failed to fetch account data. Retrying in 8000 ms
+[2022-01-05 16:41:26.398][warning] Failed to fetch account data. Retrying in 16000 ms
+[2022-01-05 16:41:30.518][warning] Failed to fetch account data. Retrying in 16000 ms
+[2022-01-05 16:41:31.122][warning] Failed to fetch account data. Retrying in 16000 ms
+[2022-01-05 16:41:32.419][warning] Failed to fetch account data. Retrying in 16000 ms
+[2022-01-05 16:41:47.485][warning] Failed to fetch account data. Retrying in 16000 ms
+[2022-01-05 16:41:55.509][debug] GRPC Channel connectivity state changed to 0
+[2022-01-05 16:41:55.509][info] Disconnected from the daemon
+[2022-01-05 16:42:03.043][info] Cannot close the tunnel because there is no active connection to daemon.
+[2022-01-05 16:42:03.043][error] Failed to connect to daemon: The channel has been closed

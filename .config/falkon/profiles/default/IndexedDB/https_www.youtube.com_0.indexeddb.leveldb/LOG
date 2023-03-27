@@ -1,0 +1,15 @@
+2022/10/31-01:53:33.820 2e18 Reusing MANIFEST /home/dot/.config/falkon/profiles/default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/31-01:53:33.820 2e18 Recovering log #58
+2022/10/31-01:53:33.828 2e18 Reusing old log /home/dot/.config/falkon/profiles/default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000058.log 
+2022/10/31-01:54:24.860 7652 Level-0 table #63: started
+2022/10/31-01:54:24.901 7652 Level-0 table #63: 216492 bytes OK
+2022/10/31-01:54:24.902 7652 Delete type=0 #58
+2022/10/31-01:54:24.902 7652 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/10/31-01:54:24.902 7652 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x02\x1f\x03\x00\x80/\xa4\xc9BxB\x00\x03\x00\x00\x00\x00\x00\x00B@' @ 103918 : 1
+2022/10/31-01:54:24.902 7652 Compacting 1@1 + 1@2 files
+2022/10/31-01:54:24.904 7652 Generated table #64@1: 448 keys, 31804 bytes
+2022/10/31-01:54:24.904 7652 Compacted 1@1 + 1@2 files => 31804 bytes
+2022/10/31-01:54:24.905 7652 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/31-01:54:24.905 7652 Delete type=2 #60
+2022/10/31-01:54:24.905 7652 Delete type=2 #63
+2022/10/31-01:54:24.905 e60 Manual compaction at level-1 from '\x00\x09\x02\x1f\x03\x00\x80/\xa4\xc9BxB\x00\x03\x00\x00\x00\x00\x00\x00B@' @ 103918 : 1 .. (end); will stop at (end)

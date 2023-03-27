@@ -1,0 +1,13 @@
+#!/bin/sh
+
+set -e
+
+#daemon=${1:?}
+state="%{F#d15e85}off%{F-}"
+cmd="$(systemctl status tor | grep -i run 2>/dev/null || echo '')"
+
+
+$cmd && state="%{F#5f87af}on%{F-}"
+
+echo "%{F#008787}tor%{F-}:${state}"
+exit 0

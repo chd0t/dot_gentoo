@@ -1,0 +1,5 @@
+2022/10/26-10:38:18.092 2216 Reusing MANIFEST /home/dot/.config/falkon/profiles/default/IndexedDB/https_www.pcmag.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/26-10:38:20.682 6d98 Level-0 table #5: started
+2022/10/26-10:38:20.721 6d98 Level-0 table #5: 815 bytes OK
+2022/10/26-10:38:20.722 6d98 Delete type=0 #3
+2022/10/26-10:38:20.722 6d98 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

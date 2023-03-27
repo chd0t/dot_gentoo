@@ -1,0 +1,7 @@
+2022/10/27-07:51:12.492 2669 Reusing MANIFEST /home/dot/.config/falkon/profiles/default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/27-07:51:12.492 2669 Recovering log #3
+2022/10/27-07:51:12.492 2669 Reusing old log /home/dot/.config/falkon/profiles/default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2022/10/27-08:07:23.287 b36 Level-0 table #5: started
+2022/10/27-08:07:23.326 b36 Level-0 table #5: 1167 bytes OK
+2022/10/27-08:07:23.326 b36 Delete type=0 #3
+2022/10/27-08:07:23.326 b36 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

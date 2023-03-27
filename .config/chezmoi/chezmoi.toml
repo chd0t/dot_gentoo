@@ -1,0 +1,20 @@
+
+
+[gpg]
+  recipient = "false"
+[data]
+  name = "chd0t"
+  [data.github] # used to generate the ~/.gitconfig
+    email = "false"
+    name = "chd0t"
+  [data.gpgkey]
+    sign = "false"
+    encrypt = "false"
+  [data.system]
+    editor = "vim" # favorite editor, vim, emacs, etc...
+    sound = "alsa" # set alsa or pulseaudio here
+
+    # Sound card to use, default is 0
+    # pulseaudio -> pactl list sinks short
+    # alsa -> cat /proc/asound/cards
+    soundcard = "0"

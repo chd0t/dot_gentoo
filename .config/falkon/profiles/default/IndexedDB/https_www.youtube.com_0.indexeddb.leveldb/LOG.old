@@ -1,0 +1,5 @@
+2022/10/30-13:04:33.853 5843 Reusing MANIFEST /home/dot/.config/falkon/profiles/default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/30-13:04:33.854 5843 Recovering log #58
+2022/10/30-13:04:33.860 5843 Reusing old log /home/dot/.config/falkon/profiles/default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000058.log 
+2022/10/30-13:04:33.860 5843 Delete type=2 #59
+2022/10/30-13:04:33.860 5843 Delete type=2 #56
