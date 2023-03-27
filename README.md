@@ -1,11 +1,14 @@
 # .cfg
-DotFiles
+<b>Dotfiles: Best Way to Store in a Bare Git Repository</b>
 
 https://www.atlassian.com/git/tutorials/dotfiles
+https://news.ycombinator.com/item?id=32632533
+https://news.ycombinator.com/item?id=11071754
 
 I use this method, it's great. WAY superior to and WAY easier than using symlinks and having to constantly copy/move and symlink things to a git repo.
 
 I use this script (which I modified a bit from the Atlassian one) to bootstrap it on a new $HOME dir (replace "***YOUR_GIT_REPO_ADDRESS***" with your address; also, you need to copy the function ,cfg into your .*rc file for command-line use):
+
 <code>
     #!/bin/bash
     set -euo pipefail # the usual stuff
